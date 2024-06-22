@@ -1,0 +1,9 @@
+# すべてのテキストファイルをLFに統一
+* text=auto
+
+# 特定のファイルをLFに統一
+*.sh text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
